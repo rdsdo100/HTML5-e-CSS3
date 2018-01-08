@@ -1,0 +1,14 @@
+@charset "UTF-8";
+section#conteudo{
+    height: 58%;
+    margin: auto;
+}
+iframe#frameSpac{
+    width: 48%;
+    height: 400px;
+    border: none;
+    overflow: hidden;
+}
+iframe#frameSpac::-webkit-scrollbar{
+    display: none;
+}
